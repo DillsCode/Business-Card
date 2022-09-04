@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+    font-family: Courier New;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    text-shadow: 1px 0px #eded03;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FCFFEB;
+    color: #474350;
+    border-bottom: 6px solid #FAFAC6;
+}
